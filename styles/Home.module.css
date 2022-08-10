@@ -6,3 +6,44 @@
   background-color: #F9F9FB;
   padding:50px 24px 30px 24px;
 }
+
+.headerTop {
+  display: flex;
+  justify-content: space-between;
+}
+
+.headerBottom {}
+
+.headerTopLeft {}
+
+.headerTopRight {
+
+}
+
+.menuButton {
+  width: 18px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.menuButtonLine {
+  background-color:rgba(251,148,0,1);
+  height: 2px;
+
+}
+
+
+.headerTitle{
+  font-weight: 500;
+  font-size: 24px;
+  color: #1B1B1B;
+  margin-bottom: 8px;
+}
+
+.headerSubtitle{
+  font-weight: 400;
+  font-size: 16px;
+  color:rgba(151,151,151,0.8);
+}
